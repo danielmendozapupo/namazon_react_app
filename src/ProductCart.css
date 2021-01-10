@@ -1,0 +1,34 @@
+
+.productcart{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.productcart_image{
+    object-fit: contain;
+    width:160px;
+    height: 160px;
+}
+.productcart_title{
+    font-size: 16px;
+    font-weight: 600;
+}
+.productcart_info{
+    padding-left: 20px;
+}
+
+.productcart_id{
+    margin-top: 15px;
+    /*visibility: hidden;*/
+}
+
+.product_starIcon {
+    color: #f0c14b;
+}
+
+.productcart_info > button{
+    background-color: #f0c14b;
+    border: 1px solid;
+    margin-top: 10px;
+    border-color: #a88734 #9c7e31 #846a29;
+}

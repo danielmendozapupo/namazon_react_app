@@ -1,0 +1,14 @@
+.search{
+    display: flex;
+    flex: 1;
+}
+
+/*.search_input{*/
+/*    */
+/*}*/
+._search{
+    height: 12px;
+    padding: 10px;
+    border: none;
+    width: 100%;
+}
